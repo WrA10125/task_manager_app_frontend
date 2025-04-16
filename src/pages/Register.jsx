@@ -57,7 +57,7 @@ export default function Register() {
           Already have an account?{" "}
           <span
             className="text-green-600 cursor-pointer hover:underline"
-            onClick={() => navigate("/login")}
+            onClick={() => navigate("/")}
           >
             Login
           </span>
